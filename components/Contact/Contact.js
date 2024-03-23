@@ -272,9 +272,9 @@ const Contact = () => {
 
 
         <h6
-          className="mt-6  text-center"
+          className="mt-3  text-center"
           >
-          PER FRAME{" "}
+          ⠀P E R⠀F R A M E{" "}
           <span className="text-strong font-semibold"></span>
         </h6>
 
