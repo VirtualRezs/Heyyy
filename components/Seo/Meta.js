@@ -35,19 +35,19 @@ const Meta = ({ children }) => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="/public/favicon.ico"
+          href="./logo.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="32x32"
-          href="/public/favicon.ico"
+          href="./logo.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="16x16"
-          href="/public/favicon.ico"
+          href="./logo.png"
         />
         <meta name="msapplication-TileColor" content="#FFD900" />
         <link rel="manifest" href="/site.webmanifest" />

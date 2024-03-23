@@ -182,7 +182,7 @@ export const PROJECTS = [
     image: "/projects/crazay.webp",
     blurImage: "/projects/blur/crazay.webp",
     description: "Crazay Games Coming in the future....",
-    gradient: ["#5f1886", "#5f1886"],
+    gradient: ["#501e08", "#501e08"],
     url: "https://www.roblox.com/groups/33779997/Unified-Sporting#!/about",
     tech: [],
   },
