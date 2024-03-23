@@ -37,9 +37,8 @@ jobs:
           CI: true
           SITE_URL: ${{ inputs.site-url }}
         run: |
-          npm install --global yarn
-          yarn install --frozen-lockfile
-          yarn build
+          npm install
+          yarn dev
 
 # Please do not touch the following action
       - name: Store deployment content
@@ -47,7 +46,7 @@ jobs:
         with:
           api-key: ${{ secrets.IONOS_API_KEY }}
           service-host: api-us.ionos.space
-          project-id: 95a0ca82-0756-4a1e-ad83-246417df0d38
+          project-id: 133c80a4-533e-4baa-9a31-fac08c17af55
           branch-id: ${{ inputs.branch-id }}
           version: ${{ github.sha }}
           folder: ${{ env.DEPLOYMENT_FOLDER }}
