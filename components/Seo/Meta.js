@@ -35,19 +35,19 @@ const Meta = ({ children }) => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="./logo.png"
+          href="https://media.discordapp.net/attachments/1220653365919223860/1221372803882811393/Trademark_white.png?ex=66125710&is=65ffe210&hm=4b630caf92c10d35ca4a0675f843221bedffa837e60b3c38915760dea888a15f&=&format=webp&quality=lossless&width=795&height=676"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="32x32"
-          href="./logo.png"
+          href="https://media.discordapp.net/attachments/1220653365919223860/1221372803882811393/Trademark_white.png?ex=66125710&is=65ffe210&hm=4b630caf92c10d35ca4a0675f843221bedffa837e60b3c38915760dea888a15f&=&format=webp&quality=lossless&width=795&height=676"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="16x16"
-          href="./logo.png"
+          href="https://media.discordapp.net/attachments/1220653365919223860/1221372803882811393/Trademark_white.png?ex=66125710&is=65ffe210&hm=4b630caf92c10d35ca4a0675f843221bedffa837e60b3c38915760dea888a15f&=&format=webp&quality=lossless&width=795&height=676"
         />
         <meta name="msapplication-TileColor" content="#FFD900" />
         <link rel="manifest" href="/site.webmanifest" />
